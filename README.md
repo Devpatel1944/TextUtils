@@ -50,6 +50,8 @@ src/
 └── styles/            # CSS files
 
 #Technologies Used
+
+
 React
 
 JavaScript
